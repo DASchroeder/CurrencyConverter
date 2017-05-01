@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConvert.resources
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+c:\users\daniel\documents\visual studio 2017\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
